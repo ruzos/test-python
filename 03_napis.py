@@ -7,4 +7,4 @@ w = 30
 
 while l <= w:
 		l += 1
-		print "Jestem w while.",x
+		print ("Jestem w while.",x)
